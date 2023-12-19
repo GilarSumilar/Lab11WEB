@@ -14,6 +14,8 @@ Tugas pemrograman WEB OOP Lanjutan #11
 - Buat modul artikel yang berisi CRUD dengan memanfaatkan library database dan form tersbut.
 - Lengkapi code programnya dan sesuaikan konfigurasi yang diperlukan.
 
+<img src="https://github.com/GilarSumilar/Lab11WEB/blob/main/gambar/Animation.gif" alt="Tugas" style="width: 60%;"/>
+
 # Langkah-langkah praktikum
 ## 
 
